@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+}
+#funny{
+    box-shadow: 10px 10px 10px black;
+}
+#bunny{
+    font-size: 25px;
+    color: red;
+}
